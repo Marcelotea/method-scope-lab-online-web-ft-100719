@@ -1,3 +1,3 @@
 def catch_phrase
-  puts "its a mario"
+  puts "It's-a me, Mario!"
 end
